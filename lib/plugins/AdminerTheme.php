@@ -1,5 +1,7 @@
 <?php
 
+namespace Sush\AdminerTheme;
+
 /**
  * Adds support for Pematon's custom theme.
  * This includes meta headers, touch icons and other stuff.

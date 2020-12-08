@@ -1,0 +1,16 @@
+{
+    "name": "sush/adminer-theme",
+    "description": "customizing fork from pematon/adminer-theme",
+    "authors": [
+        {
+            "name": "Sulav Shrestha",
+            "email": "connect@sulav.name.np"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Sush\\AdminerTheme\\":"lib/plugins/"
+      }
+    }
+}
